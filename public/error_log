@@ -1,0 +1,2 @@
+[01-Aug-2019 00:36:32 UTC] PHP Warning:  require(/home/softgasa/public_html/apisofer/../apisofer/vendor/autoload.php): failed to open stream: No such file or directory in /home/softgasa/public_html/apisofer/index.php on line 24
+[01-Aug-2019 00:36:32 UTC] PHP Fatal error:  require(): Failed opening required '/home/softgasa/public_html/apisofer/../apisofer/vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/softgasa/public_html/apisofer/index.php on line 24
